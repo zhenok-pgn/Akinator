@@ -7,6 +7,13 @@
       "RelativeMoniker": "D:0:0:{91172633-8357-4050-94C6-CC52EE3E4768}|Akinator\\Akinator.csproj|solutionrelative:akinator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{91172633-8357-4050-94C6-CC52EE3E4768}|Akinator\\Akinator.csproj|D:\\User\\AI\\Akinator\\akinator\\knowledgebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91172633-8357-4050-94C6-CC52EE3E4768}|Akinator\\Akinator.csproj|solutionrelative:akinator\\knowledgebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Akinator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91172633-8357-4050-94C6-CC52EE3E4768}|Akinator\\Akinator.csproj|D:\\User\\AI\\Akinator\\akinator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91172633-8357-4050-94C6-CC52EE3E4768}|Akinator\\Akinator.csproj|solutionrelative:akinator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +22,7 @@
       "RelativeMoniker": "D:0:0:{91172633-8357-4050-94C6-CC52EE3E4768}|Akinator\\Akinator.csproj|solutionrelative:akinator\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91172633-8357-4050-94C6-CC52EE3E4768}|Akinator\\Akinator.csproj|d:\\user\\ai\\akinator\\akinator\\knowledgebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91172633-8357-4050-94C6-CC52EE3E4768}|Akinator\\Akinator.csproj|solutionrelative:akinator\\knowledgebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91172633-8357-4050-94C6-CC52EE3E4768}|Akinator\\Akinator.csproj|d:\\user\\ai\\akinator\\akinator\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,16 +32,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Akinator",
+              "DocumentMoniker": "D:\\User\\AI\\Akinator\\Akinator\\Akinator.csproj",
+              "RelativeDocumentMoniker": "Akinator\\Akinator.csproj",
+              "ToolTip": "D:\\User\\AI\\Akinator\\Akinator\\Akinator.csproj",
+              "RelativeToolTip": "Akinator\\Akinator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-10T15:18:44.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "KnowledgeBase.cs",
               "DocumentMoniker": "D:\\User\\AI\\Akinator\\Akinator\\KnowledgeBase.cs",
               "RelativeDocumentMoniker": "Akinator\\KnowledgeBase.cs",
-              "ToolTip": "D:\\User\\AI\\Akinator\\Akinator\\KnowledgeBase.cs*",
-              "RelativeToolTip": "Akinator\\KnowledgeBase.cs*",
+              "ToolTip": "D:\\User\\AI\\Akinator\\Akinator\\KnowledgeBase.cs",
+              "RelativeToolTip": "Akinator\\KnowledgeBase.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T07:15:42.05Z",
@@ -43,25 +61,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TreeNode.cs",
               "DocumentMoniker": "D:\\User\\AI\\Akinator\\Akinator\\TreeNode.cs",
               "RelativeDocumentMoniker": "Akinator\\TreeNode.cs",
-              "ToolTip": "D:\\User\\AI\\Akinator\\Akinator\\TreeNode.cs*",
-              "RelativeToolTip": "Akinator\\TreeNode.cs*",
+              "ToolTip": "D:\\User\\AI\\Akinator\\Akinator\\TreeNode.cs",
+              "RelativeToolTip": "Akinator\\TreeNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T06:56:24.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T06:56:24.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs",
               "DocumentMoniker": "D:\\User\\AI\\Akinator\\Akinator\\MainForm.cs",
               "RelativeDocumentMoniker": "Akinator\\MainForm.cs",
-              "ToolTip": "D:\\User\\AI\\Akinator\\Akinator\\MainForm.cs*",
-              "RelativeToolTip": "Akinator\\MainForm.cs*",
+              "ToolTip": "D:\\User\\AI\\Akinator\\Akinator\\MainForm.cs",
+              "RelativeToolTip": "Akinator\\MainForm.cs",
               "ViewState": "AgIAAPYAAAAAAAAAAAAqwH4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T06:55:27.968Z",
@@ -70,14 +87,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\User\\AI\\Akinator\\Akinator\\MainForm.cs",
               "RelativeDocumentMoniker": "Akinator\\MainForm.cs",
-              "ToolTip": "D:\\User\\AI\\Akinator\\Akinator\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "Akinator\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "D:\\User\\AI\\Akinator\\Akinator\\MainForm.cs [Design]",
+              "RelativeToolTip": "Akinator\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T06:22:10.806Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "EditorCaption": " [Design]"
             }
           ]
         }
